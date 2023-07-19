@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name> PrimusLearrningRelease Nexus Repository</name>
+	      <name>PrimusLearrningRelease Nexus Repository</name>
 	      <url>http://54.144.245.169:8081/repository/TESLA-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>PrimusLearning</id>
-	      <name>PrimusLearning Snapshot Nexus Repository </name>
+	      <id>nexus</id>
+	      <name>PrimusLearning Snapshot Nexus Repository</name>
 	      <url>http://54.144.245.169:8081/repository/TESLA-REPO-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
